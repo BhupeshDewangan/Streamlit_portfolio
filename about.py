@@ -51,7 +51,7 @@ def about_me_section():
     unsafe_allow_html=True)
 
     s3.markdown(f'''
-    <a href={website_url1}><button style="background-color:#607d8b; border: none;
+    <a href={website_url3}><button style="background-color:#607d8b; border: none;
 	font-family: 'Lato';
 	font-size: 20px;
 	color: inherit;
@@ -61,7 +61,7 @@ def about_me_section():
     unsafe_allow_html=True)
 
     s4.markdown(f'''
-    <a href={website_url1}><button style="background-color:#607d8b;border: none;
+    <a href={website_url4}><button style="background-color:#607d8b;border: none;
 	font-family: 'Lato';
 	font-size: 20px;
 	color: inherit;
@@ -71,7 +71,7 @@ def about_me_section():
     unsafe_allow_html=True)
 
     s5.markdown(f'''
-    <a href={website_url1}><button style="background-color:#607d8b;border: none;
+    <a href={website_url5}><button style="background-color:#607d8b;border: none;
 	font-family: 'Lato';
 	font-size: 20px;
 	color: inherit;
