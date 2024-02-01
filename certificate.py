@@ -11,7 +11,7 @@ def certificates():
     col2.write("**Certificate 3**")
     col2.image('./Certificates/cognizant.jpg')
 
-    col1.write("**Certificate 5**")
+    col1.write("**Certificate 2**")
     col1.image('./Certificates/excel.png')
 
     # col2
